@@ -1,20 +1,23 @@
 {
-  "name": "chatbotframeworkbyzhiva8", 
-  "version": "1.0.0", 
-  "description": "by Zhiva8", 
+  "name": "chatbotframeworkbyzhiva8",
+  "version": "1.0.1",
+  "description": "by Zhiva8",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/zhiva8/Chatbot-Framework-by-zhiva.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
   "author": "zhiva",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dataprocessingbyzhiva08": "^1.0.0"
+  }
 }
